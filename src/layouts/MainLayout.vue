@@ -57,10 +57,10 @@ const linksData = [
     link: 'https://quasar.dev'
   },
   {
-    title: 'Github',
+    title: 'My Github profile',
     caption: 'github.com/quasarframework',
     icon: 'code',
-    link: 'https://github.com/quasarframework'
+    link: 'https://github.com/Azimkhoja'
   },
   {
     title: 'Discord Chat Channel',
